@@ -1,0 +1,29 @@
+hostingId: 65202
+domain: khanovaskola.cz
+accounts:
+    - mikulas.dite
+    - jan.moravec
+    - marketa.matejickova
+    - michala.kreys
+    - olga.ryparova
+    - otakar.jicha
+    - lenka.firtova
+    - daniel.hollas
+    - marek.myslivecek
+
+aliases:
+    jan: honza
+    daniel: dan
+    otakar: ota
+
+groups:
+    editors:
+        - michala.kreys
+        - daniel.hollas
+        - lenka.firtova
+        - marek.myslivecek
+    developers:
+        - mikulas.dite
+    media:
+        - jan.moravec
+        - olga.ryparova

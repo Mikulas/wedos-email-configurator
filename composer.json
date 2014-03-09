@@ -1,0 +1,17 @@
+{
+    "name": "mikulas/wedos-email",
+    "description": "Creates accounts and dynamic aliases",
+    "require": {
+        "symfony/console": "~2.4.2",
+        "symfony/dom-crawler": "~2.4.2",
+        "nette/nette": "~2.1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mikulas Dite",
+            "email": "mikulas@dite.pro"
+        }
+    ],
+    "minimum-stability": "stable"
+}
