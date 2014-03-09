@@ -1,0 +1,87 @@
+admin
+	forwards to:
+		mikulas.dite
+jan.moravec
+	aliased to:
+		jan
+		moravec
+		moravec.jan
+		honza
+		honza.moravec
+		moravec.honza
+marketa.matejickova
+	aliased to:
+		marketa
+		matejickova
+		matejickova.marketa
+michala.kreys
+	aliased to:
+		michala
+		kreys
+		kreys.michala
+olga.ryparova
+	aliased to:
+		olga
+		ryparova
+		ryparova.olga
+otakar.jicha
+	aliased to:
+		otakar
+		jicha
+		jicha.otakar
+		ota
+		ota.jicha
+		jicha.ota
+info
+	forwards to:
+		marketa
+developers
+	forwards to:
+		mikulas.dite
+	aliased to:
+		developer
+all
+	forwards to:
+		mikulas.dite
+		jan.moravec
+		marketa.matejickova
+		michala.kreys
+		olga.ryparova
+		otakar.jicha
+		lenka.firtova
+		daniel.hollas
+editors
+	forwards to:
+		michala.kreys
+		daniel.hollas
+		lenka.firtova
+		marek.myslivecek
+lenka.firtova
+	aliased to:
+		lenka
+		firtova
+		firtova.lenka
+daniel.hollas
+	aliased to:
+		daniel
+		hollas
+		hollas.daniel
+		dan
+		dan.hollas
+		hollas.dan
+marek.myslivecek
+	aliased to:
+		marek
+		myslivecek
+		myslivecek.marek
+media
+	forwards to:
+		jan.moravec
+		olga.ryparova
+mikulas.dite
+	forwards to:
+		rullaf
+	aliased to:
+		mikulas
+		dite
+		dite.mikulas
